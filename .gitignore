@@ -111,4 +111,6 @@ builder/packages/securedrop-workstation-grsec/debian/securedrop-workstation-grse
 builder/packages/securedrop-workstation-grsec/debian/securedrop-workstation-grsec
 builder/packages/securedrop-workstation-grsec/debian/files
 *.rpm
-artifacts/RPM*
+*.tar.gz
+rpm-build/BUILD/
+rpm-build/BUILDROOT/
